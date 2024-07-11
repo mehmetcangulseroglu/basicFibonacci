@@ -1,1 +1,1 @@
-Basit bir şekilde girilen sayı kadar fibonacci adım sayısı yazdıran program.
+Basit bir şekilde girilen sayı adetinde fibonacci adım sayısı kadar fibonacci elemanlarını  yazdıran program.
