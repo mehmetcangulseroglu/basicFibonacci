@@ -1,1 +1,1 @@
-Basit bir şekilde girilen sayı adetinde fibonacci adım sayısı kadar fibonacci elemanlarını  yazdıran program.
+A program that simply prints the Fibonacci elements equal to the number of Fibonacci steps entered.
